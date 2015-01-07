@@ -1,0 +1,2 @@
+# angularjs
+webjar for angularjs
